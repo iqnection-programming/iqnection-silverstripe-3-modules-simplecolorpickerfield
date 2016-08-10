@@ -1,0 +1,18 @@
+{
+	"name": "iqnection-modules/simplecolorpickerfield",
+	"description": "SilverStripe 3 Simple Color Picker Field",
+	"type": "silverstripe-module",
+	"keywords": ["iqnection","pages"],
+	"authors": [
+		{
+			"name": "IQnection",
+            "homepage": "http://www.iqnection.com"
+		}
+	],
+	"require": {
+		"silverstripe/framework": ">=3",
+	},
+	"extra": {
+		"installer-name": "iq-simplecolorpickerfield"
+	}
+}

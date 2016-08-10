@@ -1,0 +1,1 @@
+A simple color picker field based on the jQuery Spectrum.js library
