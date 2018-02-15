@@ -1,0 +1,6 @@
+---
+Name: iqsimplecolorpickerfield
+---
+SilverStripe\Core\Injector\Injector:
+  Color:
+    class: IQnection\ORM\FieldType\DBColor
